@@ -1,4 +1,4 @@
-module github.com/prithuadhikary/let-us-go/authorisation-service
+module github.com/prithuadhikary/let-us-go/authentication-service
 
 go 1.19
 
